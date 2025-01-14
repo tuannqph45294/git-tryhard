@@ -1,3 +1,2 @@
-<?php
-echo "xxxxxxxibnqt";
-?>
+<?php 
+echo "XXXXX";
